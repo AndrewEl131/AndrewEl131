@@ -7,7 +7,8 @@
 ---
 
 ### 🛠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS  
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
+- **State Management:** Redux, Zustand  
 - **Backend:** Node.js, Express, REST APIs  
 - **Database:** MongoDB  
 - **Tools:** Git, GitHub, Postman
@@ -28,11 +29,15 @@
 ---
 
 ### 📌 Featured Projects
-- Movie app using **TMDB API**
-- CRUD applications with REST APIs
+- Realtime Chat App using soctek.io
+- Realtime Blog App in NextJS
 - Authentication & user-based systems
 
 ---
+
+### 🌍 Languages
+- **Georgian** — Native (C2)  
+- **English** — Intermediate (B1)
 
 ### 📫 Contact
 - GitHub: https://github.com/AndrewEl131
