@@ -4,27 +4,20 @@
 💻 Focused on building real-world web applications  
 🧠 Always learning, always improving
 
----
-
-### 🛠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
-- **State Management:** Redux, Zustand  
-- **Backend:** Node.js, Express, REST APIs  
-- **Database:** MongoDB  
-- **Tools:** Git, GitHub, Postman
-
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
 ### 🔭 Currently working on
 - Full-stack projects with **Next.js + MongoDB**
 - Improving backend architecture and API design
 
----
-
 ### 🌱 Currently learning
 - MongoDB in depth  
 - Authentication (JWT, sessions)
 - Clean code & scalable project structure
+
+- ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Andy Elizbarashvilii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andyelizbarashvilii@gmail.com) 
 
 ---
 
@@ -33,11 +26,27 @@
 - Realtime Blog App in NextJS
 - Authentication & user-based systems
 
----
-
 ### 🌍 Languages
 - **Georgian** — Native (C2)  
 - **English** — Intermediate (B1)
+
+- # 💫 About Me:
+I’m a motivated web developer focused on building practical, real-world applications. I work mainly with React and Next.js on the frontend and Node.js with MongoDB on the backend. I enjoy structuring projects cleanly, managing state with tools like Redux and Zustand, and designing REST APIs that are simple and scalable.<br><br>I’m constantly learning and improving my skills, especially in backend development, authentication, and application architecture. I like breaking complex problems into clear steps and turning ideas into working products. I’m comfortable working independently, but I’m also open to collaboration and feedback to grow faster as a developer.
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AndrewEl131&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AndrewEl131&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewEl131&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AndrewEl131&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AndrewEl131&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 📫 Contact
 - GitHub: https://github.com/AndrewEl131
