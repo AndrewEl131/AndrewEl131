@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Andy
 
 <p align="center">
-  <img src="assets/banner.jpg" alt="Profile banner" />
+  <img src="banner.jpg" alt="Profile banner" />
 </p>
 
 
