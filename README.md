@@ -1,5 +1,10 @@
 ## Hi there 👋 I'm Andy
 
+<p align="center">
+  <img src="assets/banner.jpg" alt="Profile banner" />
+</p>
+
+
 🚀 Full Stack Web Developer in progress  
 💻 Focused on building real-world web applications  
 🧠 Always learning, always improving
