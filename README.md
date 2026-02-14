@@ -32,8 +32,12 @@
 
 ### 🌍 Languages
 
-![Georgian](https://img.shields.io/badge/Georgian-Native%20(C2)-brightgreen?style=for-the-badge)
-![English](https://img.shields.io/badge/English-B1%20Intermediate-blue?style=for-the-badge)
+**Georgian**  
+Native speaker — full professional fluency (C2)
+
+**English**  
+Working proficiency — reading documentation, communication (B1)
+
 
 
 - # 💫 About Me:
