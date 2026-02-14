@@ -31,8 +31,10 @@
 - Authentication & user-based systems
 
 ### 🌍 Languages
-- **Georgian** — Native (C2)  
-- **English** — Intermediate (B1)
+
+![Georgian](https://img.shields.io/badge/Georgian-Native%20(C2)-brightgreen?style=for-the-badge)
+![English](https://img.shields.io/badge/English-B1%20Intermediate-blue?style=for-the-badge)
+
 
 - # 💫 About Me:
 I’m a motivated web developer focused on building practical, real-world applications. I work mainly with React and Next.js on the frontend and Node.js with MongoDB on the backend. I enjoy structuring projects cleanly, managing state with tools like Redux and Zustand, and designing REST APIs that are simple and scalable.<br><br>I’m constantly learning and improving my skills, especially in backend development, authentication, and application architecture. I like breaking complex problems into clear steps and turning ideas into working products. I’m comfortable working independently, but I’m also open to collaboration and feedback to grow faster as a developer.
