@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Web+Developer;🔥+Focused+on+building+real-world+web+applications"
+    src="animated-title.svg"
     alt="Typing SVG"
   />
 </p>
