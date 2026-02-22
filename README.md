@@ -54,7 +54,6 @@ I’m a motivated web developer focused on building practical, real-world applic
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 📫 Contact
-- GitHub: https://github.com/AndrewEl131
 - Email: andyelizbarashvilii@gmail.com
 
 ---
