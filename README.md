@@ -1,20 +1,10 @@
 
-<p align="center">
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&text=Andy%20Elizbarashvili&fontColor=ffffff&fontSize=40)
+<p align="center"> 
+  <img src="banner.jpg" alt="Profile banner" /> 
 </p>
-
-<p align="center">
-  <text x="50%" y="50%" text-anchor="middle">
-  <animate
-    attributeName="opacity"
-    from="0"
-    to="1"
-    dur="1.5s"
-    fill="freeze"
-  />
-  Full-Stack Developer
-</text>
-</p>
+  <p align="center"> 
+    <img src="animated-title.svg" alt="Typing SVG" /> 
+  </p>
 
 
 ## 💻 Tech Stack
