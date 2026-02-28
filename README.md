@@ -74,7 +74,3 @@ I’m a motivated web developer focused on building practical, real-world applic
 
 ### 📫 Contact
 - Email: andyelizbarashvilii@gmail.com
-
----
-
-⚡ Fun fact: I enjoy solving complex problems and turning ideas into working products.
