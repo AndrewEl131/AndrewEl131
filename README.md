@@ -28,7 +28,6 @@
 
 ### 🛠 Tools & Workflow
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📱 Mobile
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
