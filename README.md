@@ -54,7 +54,7 @@
 Native speaker — full professional fluency (C2)
 
 **English**  
-Working proficiency — reading documentation, communication (B1)
+Working proficiency — reading documentation, communication (B2)
 
 
 
