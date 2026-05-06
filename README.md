@@ -51,7 +51,7 @@
 ### 🌍 Languages
 
 **Georgian**  
-Native speaker — full professional fluency (C2)
+Native language — full professional fluency (C2)
 
 **English**  
 Working proficiency — reading documentation, communication (B1)
