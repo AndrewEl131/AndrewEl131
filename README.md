@@ -34,7 +34,7 @@
 
 ### 🔭 Currently working on
 - Full-stack projects with **Next.js + MongoDB**
-- Improving backend architecture and API design
+- Improving backend architecture, API design, Figma Design
 
 ### 🌱 Currently learning
 - MongoDB in depth  
